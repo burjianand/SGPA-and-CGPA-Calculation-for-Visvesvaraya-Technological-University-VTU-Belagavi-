@@ -1,6 +1,4 @@
 """
-# Python Program to find CGPA or SGPA calcultor according to VTU norms
-# Written By: Niranjan Hegde
 # Reference: https://vtu.ac.in/wp-content/uploads/2019/12/becbcs2017-18.pdf
 """
 
